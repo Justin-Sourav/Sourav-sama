@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourav-sama
 - 👀 I’m interested in web development and app making
-- 🌱 I’m currently learning the basics of coding HTML,CSS,Javascript
+- 🌱 I’m currently learning the basics of Web Development
 - 💞️ I'm a beginner and want to learn so many things 
 - 📫 You can reach me on my Fb account "https://www.facebook.com/sourav.adhikari.007/" or my insta account "https://www.instagram.com/souravsama_/"
 
